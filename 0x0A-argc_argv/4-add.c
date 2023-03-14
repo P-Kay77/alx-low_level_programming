@@ -32,7 +32,7 @@ return (1);
 */
 int main(int argc, char *argv[])
 {
-[8:22 am, 14/03/2023] hillarychiamaka: /Declaring variables/
+/Declaring variables/
 int count;
 int str_to_int;
 int sum = 0;
