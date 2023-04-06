@@ -17,5 +17,5 @@ num++;
 h = h->next;
 }
 
-return (num);
+return(num);
 }
